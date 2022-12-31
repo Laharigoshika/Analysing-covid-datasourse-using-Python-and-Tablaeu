@@ -1,4 +1,4 @@
-# Analysing-covid-ddatasourse-using-Python-and-Tablaeu
+# AnalyZing-covid-datasourse-using-Python-and-Tablaeu
 
 Create python scripts and, preferably Jupyter notebooks, for the following:
 
